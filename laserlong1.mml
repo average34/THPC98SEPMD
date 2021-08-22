@@ -1,0 +1,26 @@
+#Filename   	laserlong1.M
+#Composer	average(Koko kara Saki 34 Syosetsu Me)
+#Memo	license:CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+#Tempo 68
+;TimerB 192
+
+; NM AG FB
+@006 5 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 31 0 0 15 0 0 0 6 0 0
+ 31 16 0 15 15 13 0 6 0 0
+ 31 16 0 15 15 13 0 6 0 0
+ 31 16 0 15 15 13 0 6 0 0
+ ; NM AG FB
+@007 5 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 31 0 0 15 0 10 0 15 0 0
+ 16 0 0 15 0 17 0 6 0 0
+ 16 0 0 15 0 27 0 6 0 0
+ 16 0 0 15 0 17 0 6 0 0
+
+A  l%6 v16@006
+A  r
+A  o3c
+A  @007  v16o6c v14o6g v12 c v10o5 g v8 c v6 
+

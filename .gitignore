@@ -1,0 +1,12 @@
+sc-2608
+ym2608rl_fmpmd\[1\]
+
+*.*
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!*.mml
+!*.M
+!*/東方旧作再現効果音wav/*.wav
+!/東方旧作再現効果音wav/*.wav

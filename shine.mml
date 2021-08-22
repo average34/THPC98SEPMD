@@ -1,0 +1,17 @@
+#Filename   	shine.M
+#Composer	average(Koko kara Saki 34 Syosetsu Me)
+#Memo	license:CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+#Tempo 68
+;TimerB 192
+
+; NM AG FB
+@005 5 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 18 0 0 15 0 40 0 0 0 0
+ 18 9 0 15 15 13 0 5 0 0
+ 18 9 0 15 15 13 0 6 0 0
+ 18 9 0 15 15 13 0 7 0 0
+
+A  l%6 v16@005
+A  r
+A  o7l%3 fgb v14 fgb v12 fgb v10 fgb v8 fgb v6 fgb

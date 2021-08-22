@@ -1,0 +1,16 @@
+#Filename   	decide.M
+#Composer	average(Koko kara Saki 34 Syosetsu Me)
+#Memo	license:CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+#Tempo 68
+;TimerB 192
+
+; NM AG FB
+@ 003 0 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 28 0 0 15 0 30 0 4 0 0
+ 28 9 0 15 15 20 0 4 0 0
+ 28 9 0 15 15 20 0 4 0 0
+ 28 9 0 15 15 16 0 4 0 0
+
+A  l%3 o6v16@003 
+A  rv16c v15f v14g r4l-l-l-l- 
