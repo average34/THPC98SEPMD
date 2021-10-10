@@ -1,17 +1,17 @@
 #Filename   	cursor.M
-#Timer	170
+#Composer	average(Koko kara Saki 34 Syosetsu Me)
+#Memo	license:CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+#Tempo 68
+;TimerB 192
 
-K   L R0
-R0 l4 !b
-!a l4 [@64c]4
-!b [@1c]4
-!c [@2c]4
-!d [@4c]4
-!e [@8c]4
-!f [@16c]4
-!g [@32c]4
-!h [@64c]4
-!i [@128c]4
-!j [@256c]4
-!k [@512c]4
-!l [@1024c]4
+; NM AG FB
+@010 0 0
+; AR DR SR RR SL TL KS ML DT AMS
+ 31 20 0 15 15 15 0 8 0 0
+ 31 18 0 15 15 0 0 2 0 0
+ 31 21 0 15 15 0 0 1 0 0
+ 31 18 0 15 15 18 0 2 0 0
+
+A  l%3 v16@010
+A  r
+A  @010  v16o4e e 
