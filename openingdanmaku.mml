@@ -1,0 +1,17 @@
+#Filename   	openingdanmaku.M
+#Composer	average(Koko kara Saki 34 Syosetsu Me)
+#Memo	license:CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+#Tempo 68
+;TimerB 192
+
+; NM AG FB
+@011 5 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 31 10 0 15 0 0 0 15 0 0
+ 31 14 0 15 15 10 0 15 0 0
+ 31 12 0 15 15 10 0 15 0 0
+ 31 12 0 15 15 10 0 15 0 0
+
+A  l%12 v16@011
+A  r%3
+A v16o8 c r%18 [cr%2]3 [c%7r%1]7c
