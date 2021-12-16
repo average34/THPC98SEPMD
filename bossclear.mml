@@ -1,0 +1,24 @@
+#Filename   	bossclear.M
+#Composer	average(Koko kara Saki 34 Syosetsu Me)
+#Memo	license:CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+#Tempo 68
+;TimerB 192
+
+; NM AG FB
+@021 5 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 31 0 0 15 0 0 0 0 0 0
+ 31 0 0 15 0 17 0 0 0 0
+ 31 0 0 15 0 17 0 0 0 0
+ 31 0 0 15 0 17 0 0 0 0
+; NM AG FB
+@022 5 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 31 0 0 15 0 0 0 2 0 0
+ 31 7 0 15 15 8 0 15 0 0
+ 31 7 0 15 15 8 0 2 0 0
+ 31 7 0 15 15 8 0 15 0 0
+
+A  l%6 v16@022
+A  r 
+A  o2l%3 v16@21c%6 @22o4v16 c1&c%6
