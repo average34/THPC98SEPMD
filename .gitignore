@@ -8,7 +8,6 @@ ym2608rl_fmpmd\[1\]
 !.gitkeep
 !*.mml
 !*.M
-!*/東方旧作再現効果音wav/*.wav
 !/東方旧作再現効果音wav/*.wav
 !/.github/*
 
