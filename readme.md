@@ -14,4 +14,4 @@ PMDを利用して作成しました。
 ## ライセンス  
 
 (C) Copyright 2022 ここから先、34小節目。  
-[CC BY 4.0  ![CC BY 4.0](LICENCE_CC_BY_4.0.png)](https://creativecommons.org/licenses/by/4.0/deed.ja)
+[Licenced by CC BY 4.0  ![CC BY 4.0](LICENCE_CC_BY_4.0.png)](https://creativecommons.org/licenses/by/4.0/deed.ja)
