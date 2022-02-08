@@ -1,0 +1,18 @@
+#Filename   	lasershort2.M
+#Composer	average(Koko kara Saki 34 Syosetsu Me)
+#Memo	license:CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+#Tempo 68
+;TimerB 192
+
+; NM AG FB
+@025 4 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 31 0 0 15 0 15 0 12 0 0
+ 31 0 14 15 2 21 0 13 0 0
+ 31 0 0 15 0 0 0 7 0 0
+ 31 0 14 15 2 21 0 8 0 0
+
+A  l%3 v16@025
+A  r
+A  v16o5 c4
+
