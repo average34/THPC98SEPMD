@@ -1,0 +1,19 @@
+#Filename   	damagetaken.M
+#Composer	average(Koko kara Saki 34 Syosetsu Me)
+#Memo	license:CC BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.ja
+#Tempo 68
+;TimerB 192
+
+; NM AG FB
+@026 4 7
+; AR DR SR RR SL TL KS ML DT AMS
+ 31 0 0 15 0 0 0 0 0 0
+ 31 8 0 15 15 10 0 4 0 0
+ 18 19 0 15 15 25 0 3 3 0
+ 31 8 0 15 15 10 0 1 7 0
+
+A  l%6 v16@026
+A  r 
+A  o3l%3 v16 c%24
+;0.445sec = %6 * 4 = %24
+
