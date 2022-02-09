@@ -48,7 +48,7 @@ PMD98 (Ver.4.8s 2020/01/22)
 こちらを参照  
 <https://docs.google.com/document/d/184YrjludabpPeC46Yac3S87KDXzLHjHvG7SVCeHcwEM/edit?usp=sharing>
 
-## ライセンス  
+## 利用規約・ライセンス  
 
 商用利用OK、複製・改変・再配布OKです。  
 利用する場合には  
